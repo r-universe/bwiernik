@@ -1,0 +1,10 @@
+[
+  {
+    "package": "configural",
+    "oncran": true
+  },
+  {
+    "package": "pipebind",
+    "oncran": true
+  }
+]
